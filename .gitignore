@@ -1,0 +1,4 @@
+raw_emails/
+.env
+__pycache__/
+*.pkl
